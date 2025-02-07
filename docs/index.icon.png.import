@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ctk4crnr6wv5h"
-path="res://.godot/imported/tinanago.icon.png-65e4c025f190f2a93af148b2cf34db48.ctex"
+uid="uid://bbosbuirohoe8"
+path="res://.godot/imported/index.icon.png-b92c9a802ad4b78e247784454a6b506f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://docs/tinanago.icon.png"
-dest_files=["res://.godot/imported/tinanago.icon.png-65e4c025f190f2a93af148b2cf34db48.ctex"]
+source_file="res://docs/index.icon.png"
+dest_files=["res://.godot/imported/index.icon.png-b92c9a802ad4b78e247784454a6b506f.ctex"]
 
 [params]
 

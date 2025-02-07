@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bdy5pujif0vxu"
-path="res://.godot/imported/tinanago.png-ce0a769f6ce0d4f43a7c4c4c84bac111.ctex"
+uid="uid://bka5cdar6ffo1"
+path="res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://docs/tinanago.png"
-dest_files=["res://.godot/imported/tinanago.png-ce0a769f6ce0d4f43a7c4c4c84bac111.ctex"]
+source_file="res://docs/index.png"
+dest_files=["res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex"]
 
 [params]
 
